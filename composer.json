@@ -1,0 +1,23 @@
+{
+    "name": "racklin/pkuuids",
+    "description": "Using a UUID as PrimaryKey for laravel 5.3+",
+    "keywords" : ["laravel", "postgres"],
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Rack Lin",
+            "email": "racklin@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.*",
+        "ramsey/uuid": "~3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Racklin\\PkUuids": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
