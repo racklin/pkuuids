@@ -32,7 +32,7 @@ class User extends Model
 {
     use PkUuids;
 
-    $incrementing = false;
+    public $incrementing = false;
 }
 ```
 
