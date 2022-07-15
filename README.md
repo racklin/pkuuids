@@ -39,4 +39,4 @@ class User extends Model
 
 ## Laravel version
 
-Current package version works for Laravel 5.3+.
+Current package version works for Laravel 5.3+ 6.x 7.x 8.x 9.x

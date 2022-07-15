@@ -1,5 +1,5 @@
 {
-  "name": "adamlien/pkuuids",
+  "name": "racklin/pkuuids",
   "description": "Using a UUID as PrimaryKey for laravel 5.3+",
   "keywords": [
     "laravel",
